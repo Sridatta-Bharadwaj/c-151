@@ -7,6 +7,7 @@ object is defined and all default properties like name types etc.
 it is also known as shape of data
 
 life cycle handler methods
+
 1)init function
 setup the initial states
 
